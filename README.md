@@ -10,5 +10,9 @@ This webapp does the following things:
 
 #Deploying the app
 There is a run.sh file we need to run that on terminal using the following command:
+
+
 $ chmod +x run.sh
+
+
 $ ./run.sh
